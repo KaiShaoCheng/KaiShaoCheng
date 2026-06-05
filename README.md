@@ -1,16 +1,15 @@
-## Hi there 👋
+# KaiShaoCheng
 
-<!--
-**KaiShaoCheng/KaiShaoCheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building **AGIone**, an OpenAI-compatible inference API for multimodal AI models.
 
-Here are some ideas to get you started:
+## Current focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- OpenAI-compatible API infrastructure
+- Developer tooling for AI agents
+- Model routing across LLM, vision, image, and video models
+
+## Links
+
+- AGIone: https://agione.pro
+- Company: OnePro Cloud Technologies
+- GitHub: https://github.com/KaiShaoCheng
